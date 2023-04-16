@@ -8,3 +8,5 @@ Tout le côté docker fonctionne avec les variables d'environnement données. Je
 le docker-compose.yml pour que ce soit fonctionnel.
 
 La partie Front-end n'est pas aboutie, j'ai préféré pas trop passer de temps dessus.
+
+La partie création de l'API à été complété; elle n'était pas très avancé pour le premier rendus.
